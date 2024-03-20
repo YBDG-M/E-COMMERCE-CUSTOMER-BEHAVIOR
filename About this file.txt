@@ -1,0 +1,12 @@
+About this file
+Customer ID - Integer
+Gender - String
+Age - Integer
+City - String
+Membership Type - String
+Total Spend - Numeric
+Items Purchased - Integer
+Average Rating - Numeric
+Discount Applied - Boolean
+Days Since Last Purchase - Integer
+Satisfaction Level - String
